@@ -8,7 +8,7 @@ namespace OOPclass
         public int maxSpeed;
         public string model;
         public int year;
-        public void fullThrottle();
+        
 
         public Car(string modelName, string modelColor, int modelYear)
         {
